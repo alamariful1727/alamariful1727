@@ -2,7 +2,7 @@
 
 <img align='right' src='https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif' width='200'>
 
-I am `Ariful Alam` . My work and research interests are in Web Development and Blockchain. I love to learn new skills.
+I am **Ariful Alam** . My work and research interests are in Web Development and Blockchain. I love to learn new skills.
 
 ## Hello World !! 😃
 
