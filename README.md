@@ -2,14 +2,14 @@
 
 <img align='right' src='https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif' width='200'>
 
-I am `Ariful Alam` . My work and research interests are in Web Development and Blockchain. I love to learn new skills.
+I am **Ariful Alam** . My work and research interests are in Web Development and Blockchain. I love to learn new skills.
 
 ## Hello World !! 😃
 
-- 🔭 I’m currently working on : **Node**, **React**, **MongoDB**
-- 🌱 I’m currently learning : **PWA**, **React Native**, **Hyperledger fabric**
+- 🔭 I’m currently working on : **Google Map**, **Microservice**, **Docker**, **Node**, **React**, **MongoDB**
+- 🌱 I’m currently learning : **Google Map**, **Microservice**, **Docker**, **PWA**, **React Native**, **Hyperledger fabric**
 - 👯 I’m looking to collaborate on : **Node**, **React**, **MongoDB**
-- 🤔 I’m looking for help with : **CI/CD**, **Redis**, **Elastic search**, **AWS**, **Hyperledger fabric**, **Ethereum**
+- 🤔 I’m looking for help with : **Microservice**, **Docker**, **CI/CD**, **Redis**, **Elastic search**, **AWS**, **Hyperledger fabric**, **Ethereum**
 - 💬 Ask me about : Web Development & Blockchain
 - 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-alamariful1727-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alamariful1727/)](https://www.linkedin.com/in/alamariful1727/)
 [![Facebook Badge](https://img.shields.io/badge/-alamariful1727-3b5998?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/alamariful1727)](https://www.facebook.com/alamariful1727)
