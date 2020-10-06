@@ -21,8 +21,12 @@ I am `Ariful Alam` . My work and research interests are in Web Development and B
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamariful1727&layout=compact)](https://github.com/alamariful1727)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamariful1727&layout=compact)](https://github.com/alamariful1727) -->
 
-<!-- <p align="left">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=alamariful1727&&show_icons=true" width="75%" height="50%"/>
-</p> -->
+</p>
+
+<!-- <a href="https://github.com/iampawan/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+</a> -->
