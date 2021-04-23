@@ -6,11 +6,11 @@ I am **Ariful Alam** . My work and research interests are in Web Development and
 
 ## Hello World !! 😃
 
-- 🔭 I’m currently working on : **Google Map**, **Microservice**, **Docker**, **Node**, **React**, **MongoDB**
-- 🌱 I’m currently learning : **Google Map**, **Microservice**, **Docker**, **PWA**, **React Native**, **Hyperledger fabric**
-- 👯 I’m looking to collaborate on : **Node**, **React**, **MongoDB**
+- 🔭 I’m currently working on : **Lambda**, **Node**, **React**, **MongoDB**, **Python**, **PostgreSQL**
+- 🌱 I’m currently learning : **Lambda**, **Next.js**, **PostgreSQL**, **React Native**, **Hyperledger fabric**
+- 👯 I’m looking to collaborate on : **Node**, **React**, **MongoDB**, **PWA**,
 - 🤔 I’m looking for help with : **Microservice**, **Docker**, **CI/CD**, **Redis**, **Elastic search**, **AWS**, **Hyperledger fabric**, **Ethereum**
-- 💬 Ask me about : Web Development & Blockchain
+- 💬 Ask me about : Web Development & Clouds
 - 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-alamariful1727-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alamariful1727/)](https://www.linkedin.com/in/alamariful1727/)
 [![Facebook Badge](https://img.shields.io/badge/-alamariful1727-3b5998?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/alamariful1727)](https://www.facebook.com/alamariful1727)
 [![Gmail Badge](https://img.shields.io/badge/-alamariful1727-A9A9A9?style=flat-square&logo=Gmail&logoColor=red&link=mailto:vsasvipul@gmail.com)](mailto:alamariful1727@gmail.com)
