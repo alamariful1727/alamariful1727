@@ -32,6 +32,8 @@ I am **Ariful Alam** . My work and research interests are in Web Development and
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
 </a> -->
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=alamariful1727&theme=gruvbox&hide_border=true&area=true)
+
 ## Github Stats 🔥🔥🔥:
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alamariful1727&theme=onedark" alt="alamariful1727" width="70%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=alamariful1727&row=2&column=3a&theme=onedark" alt="alamariful1727"  width="70%"/>
