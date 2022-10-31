@@ -2,7 +2,7 @@
 
 <img align='right' src='https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif' width='200'>
 
-I am **Ariful Alam** . My work and research interests are in Web Development and Blockchain. I love to learn new skills.
+I am **Ariful Alam** . My work and research interests are in Web Development and Machine Learning. I love to learn new technologies.
 
 ## Hello World !! 😃
 
@@ -16,6 +16,14 @@ I am **Ariful Alam** . My work and research interests are in Web Development and
 [![Gmail Badge](https://img.shields.io/badge/-alamariful1727-A9A9A9?style=flat-square&logo=Gmail&logoColor=red&link=mailto:vsasvipul@gmail.com)](mailto:alamariful1727@gmail.com)
 - 😄 Pronouns : He/His
 - ⚡ Fun fact : Cheese can make any food delicious
+
+## Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+
+
 
 <br>
 
