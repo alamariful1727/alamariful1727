@@ -1,8 +1,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif' width='200'>
+<!-- <img align='right' src='https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif' width='200'> -->
 
-I am **Ariful Alam** . My work and research interests are in Web Development and Machine Learning. I love to learn new technologies.
+I am **Ariful Alam**. My work and research interests are in Web Development and Machine Learning. I love to learn new technologies.
 
 ## Hello World !! 😃
 
