@@ -1,14 +1,16 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!! <br/>It's Ariful Alam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <!-- <img align='right' src='https://netbramha.com/wp-content/uploads/2016/12/front-end-developers-openings-1.gif' width='200'> -->
 
-I am **Ariful Alam**. My work and research interests are in Web Development and Machine Learning. I love to learn new technologies.
+I am passionate about what I do and consider that passion to be the main engine, responsible for pushing me every day to achieve my professional and personal goals. Sharing my knowledge and learning at every moment. Not only in technical aspects but also, personally.
+
+I have 4 years of experience in **Software Development** where I've mostly worked with **Node.js**, **Python**, **React.js** and **Next.js**. In terms of cloud works, I've some hands on experience in **AWS**.
 
 ## Hello World !! 😃
 
-- 🔭 I’m currently working on : **Lambda**, **Node**, **React**, **MongoDB**, **Python**, **PostgreSQL**
-- 🌱 I’m currently learning : **Lambda**, **Next.js**, **PostgreSQL**, **React Native**, **Hyperledger fabric**
-- 👯 I’m looking to collaborate on : **Node**, **React**, **MongoDB**, **PWA**,
+- 🔭 I’m currently working on : ***Node.js**, **Python**, **React.js**, **Next.js**, **MongoDB**, **PostgreSQL**
+- 🌱 I’m currently learning : **React Native**, **Hyperledger fabric**
+- 👯 I’m looking to collaborate on : **Node**, **React**, **Next.js**, **PWA**,
 - 🤔 I’m looking for help with : **Microservice**, **Docker**, **CI/CD**, **Redis**, **Elastic search**, **AWS**, **Hyperledger fabric**, **Ethereum**
 - 💬 Ask me about : Web Development & Clouds
 - 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-alamariful1727-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alamariful1727/)](https://www.linkedin.com/in/alamariful1727/)
