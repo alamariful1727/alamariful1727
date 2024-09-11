@@ -4,7 +4,7 @@
 
 I am passionate about what I do and consider that passion to be the main engine, responsible for pushing me every day to achieve my professional and personal goals. Sharing my knowledge and learning at every moment. Not only in technical aspects but also, personally.
 
-I have 4 years of experience in **Software Development** where I've mostly worked with **Node.js**, **Python**, **React.js** and **Next.js**. In terms of cloud works, I've some hands on experience in **AWS**.
+I have 6 years of experience in **Software Development** where I've mostly worked with **Node.js**, **Python**, **React.js** and **Next.js**. In terms of cloud works, I've some hands on experience in **AWS**.
 
 ## Hello World !! 😃
 
